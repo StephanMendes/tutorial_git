@@ -1,0 +1,25 @@
+total 104
+drwxrwxr-x 3 orlando orlando  4096 set 20 20:35 .
+drwxrwxr-x 3 orlando orlando  4096 set 20 20:34 ..
+drwxrwxr-x 8 orlando orlando  4096 set 20 20:37 .git
+-rw-rw-r-- 1 orlando orlando 18791 set 20 19:40 Git Diagram.svg
+-rw-rw-r-- 1 orlando orlando     0 set 20 20:35 temporada1episodio1.txt
+-rw-rw-r-- 1 orlando orlando     0 set 20 20:35 temporada1episodio2.txt
+-rw-rw-r-- 1 orlando orlando 35214 set 20 20:36 temporada1episodio3.txt
+-rw-rw-r-- 1 orlando orlando 35237 set 20 20:36 temporada1episodio4.txt
+-rw-rw-r-- 1 orlando orlando     0 set 20 20:35 temporada1episodio5.txt
+-rw-rw-r-- 1 orlando orlando     0 set 20 20:37 temporada2episodio1.txt
+-rw-rw-r-- 1 orlando orlando     0 set 20 20:35 temporada2episodio2.txt
+-rw-rw-r-- 1 orlando orlando     0 set 20 20:35 temporada2episodio3.txt
+-rw-rw-r-- 1 orlando orlando     0 set 20 20:35 temporada2episodio4.txt
+-rw-rw-r-- 1 orlando orlando     0 set 20 20:35 temporada2episodio5.txt
+-rw-rw-r-- 1 orlando orlando     0 set 20 20:35 temporada3episodio1.txt
+-rw-rw-r-- 1 orlando orlando     0 set 20 20:35 temporada3episodio2.txt
+-rw-rw-r-- 1 orlando orlando     0 set 20 20:35 temporada3episodio3.txt
+-rw-rw-r-- 1 orlando orlando     0 set 20 20:35 temporada3episodio4.txt
+-rw-rw-r-- 1 orlando orlando     0 set 20 20:35 temporada3episodio5.txt
+-rw-rw-r-- 1 orlando orlando     0 set 20 20:35 temporada4episodio1.txt
+-rw-rw-r-- 1 orlando orlando     0 set 20 20:35 temporada4episodio2.txt
+-rw-rw-r-- 1 orlando orlando     0 set 20 20:35 temporada4episodio3.txt
+-rw-rw-r-- 1 orlando orlando     0 set 20 20:35 temporada4episodio4.txt
+-rw-rw-r-- 1 orlando orlando     0 set 20 20:35 temporada4episodio5.txt
